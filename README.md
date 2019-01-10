@@ -3,6 +3,7 @@ Script to get full APP Objects using Qlik Sense QRS API and store the response i
 
 # Read Me
 - UserDirectory and UserId in the code is an example, please change it accordingly to fit your environment
+- Please run this script on Qlik Sesne Central node, not other machine
 
 # Instruction
 1. Donwload QRS_GetAppObjectFull.ps1 onto Qlik Sense Central node
